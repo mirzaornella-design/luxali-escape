@@ -1,0 +1,7 @@
+{
+  "name": "luxali-escape",
+  "private": true,
+  "description": "Luxali Escape: мудборд-тест с формой заявки (Vercel + Supabase + Telegram)",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node test/lead.test.js" }
+}
